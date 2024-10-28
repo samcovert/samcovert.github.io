@@ -2720,6 +2720,7 @@ input, select, textarea {
 			order: 2;
 			max-width: 48em;
 			width: 60%;
+			margin-bottom: 20px;
 		}
 
 		.spotlight:nth-child(2n) {
