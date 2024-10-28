@@ -2067,6 +2067,7 @@ input, select, textarea {
 
 		.icon.brands.skills:before {
 			font-family: 'Font Awesome 5 Brands';
+			font-size: 1.55em;
 		}
 
 		.icon.brands.small:before {
