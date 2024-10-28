@@ -64,6 +64,11 @@ body {
 .email, .resume {
 	border-bottom: none;
 	cursor: pointer;
+	color: rgba(255, 255, 255, 0.5);
+}
+
+.email:hover, .resume:hover {
+	color: #fff;
 }
 
 .resume {
