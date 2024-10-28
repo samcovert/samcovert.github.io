@@ -48,7 +48,24 @@ body {
 	line-height: normal;
 }
 
+.contact {
+	display: flex;
+	justify-content: center;
+}
 
+.email-resume {
+	display: flex;
+}
+
+.email.resume {
+	padding: 0 10px 0 10px;
+	border-bottom: none;
+	cursor: pointer;
+}
+
+.resume {
+	border-left: 1px solid white;
+}
 
 ol, ul {
 	list-style: none;
