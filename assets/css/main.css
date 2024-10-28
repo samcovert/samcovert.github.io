@@ -39,13 +39,16 @@ body {
     font-size: x-large;
 }
 
-#one > a > .resume {
+#one > div > a {
 	text-decoration: none;
+	border-bottom: none;
 }
 
 #one > p > .about-me {
 	line-height: normal;
 }
+
+
 
 ol, ul {
 	list-style: none;
@@ -2057,6 +2060,7 @@ input, select, textarea {
 
 		.icon.brands:before {
 			font-family: 'Font Awesome 5 Brands';
+			font-size: x-large;
 		}
 
 		.icon.major {
