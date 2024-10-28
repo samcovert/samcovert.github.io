@@ -57,8 +57,11 @@ body {
 	display: flex;
 }
 
-.email.resume {
+.email-resume a {
 	padding: 0 10px 0 10px;
+}
+
+.email, .resume {
 	border-bottom: none;
 	cursor: pointer;
 }
