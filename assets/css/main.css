@@ -2064,6 +2064,13 @@ input, select, textarea {
 			font-family: 'Font Awesome 5 Brands';
 			font-size: x-large;
 		}
+		.icon.brands.small:before {
+			font-family: 'Font Awesome 5 Brands';
+    		font-size: large;
+		}
+		.icon.small.live-site {
+			margin-left: 4em;
+		}
 
 		.icon.major {
 			-moz-transform: rotate(-45deg);
